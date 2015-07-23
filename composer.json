@@ -2,6 +2,7 @@
     "name": "hgtan/rabbitmq-bundle",
     "type": "symfony-bundle",
     "description": "Hello RabbitMq Bundle",
+    "keywords": ["symfony2", "rabbitmq", "message", "queue", "amqp"],
     "homepage": "http://hoangthienan.github.io",
     "license": "MIT",
     "authors": [
